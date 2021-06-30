@@ -1,6 +1,11 @@
 # Transfer learning to classify the images of dogs vs coyotes
  In this project we train multiple CNN models and convolutional autoencoders to classify the images of dogs vs cats. Subsequently we use transfer learning to classify the images of dogs vs coyotes.
 
+## Prerequisites
+-  Keras
+
+
+
 ## Workflow
 <p align="center">
 <img  width="50%" src="https://github.com/MarounHaddad/Transfer-learning-to-classify-dogs-vs-coyotes/blob/main/images/workflow.png">
