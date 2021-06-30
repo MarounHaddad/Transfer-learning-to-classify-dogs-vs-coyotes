@@ -22,7 +22,7 @@
 </p>
 
 ## Architectures
-### Convolutional Autoencoder Architectures
+### Convolutional Autoencoder Architecture
 <p align="center">
 <img  width="65%" src="https://github.com/MarounHaddad/Transfer-learning-to-classify-dogs-vs-coyotes/blob/main/images/autoencoderarchitecture.png">
 </p>
