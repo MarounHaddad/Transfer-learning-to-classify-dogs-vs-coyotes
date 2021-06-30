@@ -3,32 +3,28 @@
 
 ## Workflow
 <p align="center">
-<img  width="65%" src="https://github.com/MarounHaddad/Classifying-restaurants-by-state/blob/main/images/focalize.png">
+<img  width="50%" src="https://github.com/MarounHaddad/Transfer-learning-to-classify-dogs-vs-coyotes/blob/main/images/workflow.png">
 </p>
 
-## VGG16
+## VGG16 Training Steps
 <p align="center">
-<img  width="65%" src="https://github.com/MarounHaddad/Classifying-restaurants-by-state/blob/main/images/focalize.png">
+<img  width="75%" src="https://github.com/MarounHaddad/Transfer-learning-to-classify-dogs-vs-coyotes/blob/main/images/VGG.png">
 </p>
 
-## Convolutional Autoencoder
+## Convolutional Autoencoder Training Steps
 <p align="center">
-<img  width="65%" src="https://github.com/MarounHaddad/Classifying-restaurants-by-state/blob/main/images/focalize.png">
+<img  width="75%" src="https://github.com/MarounHaddad/Transfer-learning-to-classify-dogs-vs-coyotes/blob/main/images/Autoencoder.png">
 </p>
 
 ## Architectures
+### Convolutional Autoencoder Architectures
 <p align="center">
-<img  width="65%" src="https://github.com/MarounHaddad/Classifying-restaurants-by-state/blob/main/images/focalize.png">
+<img  width="65%" src="https://github.com/MarounHaddad/Transfer-learning-to-classify-dogs-vs-coyotes/blob/main/images/autoencoderarchitecture.png">
 </p>
 
-### Convolutional Autoencoder
+### Classifier Architectures
 <p align="center">
-<img  width="65%" src="https://github.com/MarounHaddad/Classifying-restaurants-by-state/blob/main/images/focalize.png">
-</p>
-
-### Classifier
-<p align="center">
-<img  width="65%" src="https://github.com/MarounHaddad/Classifying-restaurants-by-state/blob/main/images/focalize.png">
+<img  width="65%" src="https://github.com/MarounHaddad/Transfer-learning-to-classify-dogs-vs-coyotes/blob/main/images/classifierarchitecture.png">
 </p>
 
 ## Background Information
