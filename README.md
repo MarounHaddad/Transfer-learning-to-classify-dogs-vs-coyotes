@@ -4,6 +4,7 @@
 ## Prerequisites
 -  Python 3.6
 -  Keras 2.2
+-  cuda 9.0
 
 ## Workflow
 <p align="center">
