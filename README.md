@@ -5,4 +5,4 @@
 Presented as partial requirement of the course "INF7370 - Apprentissage automatique" at UQAM (Univesity of Quebec at Montreal).  
 Maroun Haddad 2019.  
 
-Report and presentation under 
+Report and presentation under **\presentation and report in french**.  
